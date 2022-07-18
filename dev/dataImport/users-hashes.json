@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "62d55b4ea878e0c871855fe0"
+  },
+  "username": "anonymousUser",
+  "firstName": "Anonymous",
+  "lastName": "User",
+  "hash": "$2b$10$AyHF4OfiqCcL3L78ZslZVe6hzZWTbsI1B5FyH5yze0DxIJoE8RfUm",
+  "accessGroups": [
+    "loggedOutUsers"
+  ]
+},{
+  "_id": {
+    "$oid": "62d55b4ea878e0c871855fe1"
+  },
+  "username": "edward",
+  "firstName": "Edward",
+  "lastName": "Tanguay",
+  "hash": "$2b$10$F7Omjh4Ny5UYsYhwcYUIpOQGoaRD37pLCRg5yyV8ybIjHevw6QOam",
+  "accessGroups": [
+    "loggedInUsers",
+    "administrators"
+  ]
+},{
+  "_id": {
+    "$oid": "62d55b4ea878e0c871855fe2"
+  },
+  "username": "jason",
+  "firstName": "Jason",
+  "lastName": "Jenkins",
+  "hash": "$2b$10$3YOkzr2gc8zd2iAXfUenx.1WvXO7CSQXHk5hiSs2lqdtTqRyIw3GK",
+  "accessGroups": [
+    "loggedInUsers",
+    "jobSeekers"
+  ]
+},{
+  "_id": {
+    "$oid": "62d55b4ea878e0c871855fe3"
+  },
+  "username": "richter",
+  "firstName": "Henri",
+  "lastName": "Richter",
+  "hash": "$2b$10$mH6eKxjw1UvR.VsjSeze.em.Hwx37yWwrJN9LIpFJLg1QHNXQpULK",
+  "accessGroups": [
+    "loggedInUsers",
+    "companies"
+  ]
+}]
